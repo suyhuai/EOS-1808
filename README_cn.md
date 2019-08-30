@@ -1,7 +1,7 @@
-[English](https://github.com/Cocos-BCX/EOS-1808/blob/master/README.md)
+[English](https://github.com/CocosBCX/EOS-1808/blob/master/README.md)
 
 # Cocos-BCX 1808 概述
-[COCOS 1808 非同质数字资产标准和世界观系统](https://github.com/Cocos-BCX/1808/blob/master/README.md)
+[COCOS 1808 非同质数字资产标准和世界观系统](https://github.com/CocosBCX/1808/blob/master/README.md)
 
 # EOS-1808
 EOS-1808项目是基于Cocos-BCX 1808设计理念在EOS主网上的一个Demo实现。示例实际上是一个合约，开发者可以基于该合约开发属于自己的项目。

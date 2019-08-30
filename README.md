@@ -1,8 +1,8 @@
-[中文](https://github.com/Cocos-BCX/EOS-1808/blob/master/README_cn.md)
+[中文](https://github.com/CocosBCX/EOS-1808/blob/master/README_cn.md)
 
 
 # Cocos 1808 Overview
-[1808 Standard & Multiverse System](https://github.com/Cocos-BCX/1808/blob/master/README.md)
+[1808 Standard & Multiverse System](https://github.com/CocosBCX/1808/blob/master/README.md)
 
 # EOS-1808
 The EOS-1808 is a Demo implementation on the EOS mainnet based on the design concept of COCOS 1808. The Demo is actually a contract based on which developers can develop their own projects.
